@@ -1,3 +1,6 @@
+#Write a python program to create a class Circle. Include methods to calculate it's area and perimeter.
+
+
 import math
 class Circle:
     def __init__(self,radius):

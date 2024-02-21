@@ -1,3 +1,5 @@
+#Take input from user and check whether that number is a Palindrome or not.
+
 def numberIsPalindrome(a):
         temp=a
         reverse=0

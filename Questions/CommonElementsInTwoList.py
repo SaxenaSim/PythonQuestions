@@ -1,3 +1,5 @@
+#Write a program to find common elements in two lists.
+
 def findCommonElements(list1, list2):
     commonElements = []
     for item in list1:

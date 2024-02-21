@@ -1,3 +1,5 @@
+#Write a program to find second largest number in a list.
+
 def secondLargest(list1):
     list1.sort()
     ans=list1[-2]

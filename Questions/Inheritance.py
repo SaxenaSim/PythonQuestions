@@ -1,3 +1,6 @@
+#Define a employee class with attributes role, department and salary.This class also has a showDetails() method. Create an engineer class that inherit properties and has additional attributes name and age.
+
+
 class Employee:
     def __init__(self,role,dept,salary):
         self.role=role

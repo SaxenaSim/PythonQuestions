@@ -1,3 +1,5 @@
+#Write a program to create a class Student and include method to calculate the average of marks of a student
+
 class Student:
     def __init__(self,name,marks):
         self.name=name

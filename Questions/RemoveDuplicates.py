@@ -1,3 +1,5 @@
+#Write a program to remove duplicates from a list.
+
 def removeDuplicates(numbers):
     uniqueNumbers = []
     for i in numbers:

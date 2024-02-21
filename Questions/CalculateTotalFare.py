@@ -1,3 +1,6 @@
+#Create a Vehicle class and child class Bus which will inherit all the properties. we need to add an extra 10% on full fare as a maintenance charge. So total fare for bus instance will become the final amount = total fare + 10% of the total fare.
+
+
 class Vehicle:
     def __init__(self, name, mileage, capacity):
         self.name = name

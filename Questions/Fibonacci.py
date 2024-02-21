@@ -1,3 +1,5 @@
+#Write a program to find a fibonacci of a number.
+
 def fibonacci(n):
     a,b=0,1
     counter=0
